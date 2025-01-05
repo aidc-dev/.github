@@ -1,1 +1,1 @@
-AIDC = AI Dream Chasers 🧗‍♂️
+# AIDC = AI Dream Chasers 🧗‍♂️
